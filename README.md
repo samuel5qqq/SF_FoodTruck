@@ -22,3 +22,4 @@ Mang Hang Catering 1 Thomas More Way <br> Steve’s Mobile Deli 145 King Street
      • cd /Users/samuelchen/PycharmProjects/Food_Truck <br>
    ⁃ Execute the program <br>
      • python3 show_open_food_trucks.py <br>
+
